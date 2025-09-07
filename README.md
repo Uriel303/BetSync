@@ -8,3 +8,5 @@ Os serviços são organizados em blocos visuais de fácil leitura, com ícones q
 O site foi planejado para funcionar em qualquer dispositivo e oferecer uma navegação fluida, criando uma experiência positiva e aumentando as chances de conversão.
 
 Este modelo é ideal para salões de beleza, barbearias e clínicas de estética que desejam transmitir profissionalismo e captar clientes de forma eficiente.</p>
+<br>
+<img src = "https://github.com/Uriel303/BetSync/blob/main/img/Sal%C3%A3o%20e%20Barbearia.png?raw=true">
